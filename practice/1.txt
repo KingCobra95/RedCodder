@@ -1,0 +1,135 @@
+[13:34] Srikanth Reddy Chilumula
+    
+list of cities
+​[13:34] Srikanth Reddy Chilumula
+    
+each city long, lat
+​[13:34] Srikanth Reddy Chilumula
+    
+values are float
+​[13:34] Srikanth Reddy Chilumula
+    
+given any random coordinate (long, lat)
+​[13:35] Srikanth Reddy Chilumula
+    
+find nearest city for this random coordinate
+
+[13:36] Srikanth Reddy Chilumula
+    
+10.123456, -5.345678
+​[13:36] Srikanth Reddy Chilumula
+    
+-180 to 180, -90 to 90
+​[13:37] Srikanth Reddy Chilumula
+    
+-180 to 180
+
+
+
+2D coordinate
+
+
+
+x : -180 -> 180
+y : -180 -> 180
+
+           x, y-1
+--------------
+ x-1, y    x, y  x+1, y   
+-------------
+           x, y+1
+
+
+x, y  -> x+3.50, y+5.67
+
+min(((x+3.50)-x), ((y+5.67)-y))
+
+
+
+1 -> 8
+2 -> 8*8 // not traverse visited cell
+3 -> 2*8
+
+
+
+{
+	item: {
+		name: PRIME
+	},
+	namespace: {
+		name: PRIME
+	},
+	offerListing: {
+		id: PRIME_ANNUAL_PAID
+	},
+	marketplace: {
+		id: US
+	},
+	offer_revision: {
+		price: {
+			value: 100.00,
+			unit: USD
+		},
+		description: "XUYZ"
+	}	 
+}
+
+
+{
+	item: {
+		name: PRIME
+	},
+	namespace: {
+		name: PRIME
+	},
+	offerListing: {
+		fee_type: PAID,
+		sub_fee_type: PAID
+	},
+	marketplace: {
+		id: US
+	}	 
+}
+
+- Peregrine section or integration section
+- Summary of whole call flow
+- 
+
+
+------------------------------------
+- Demostrate benefits of MC during demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

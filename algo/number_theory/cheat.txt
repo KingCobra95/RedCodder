@@ -52,3 +52,52 @@ B = (C - C%N)/N;
 
 placate : shant krna
 testimonials : praise letter
+
+
+21-feb
+Algo: String, searching, sorting
+DS: stack, queue, LL
+
+22-Feb
+
+
+
+Tree Code
+-------------------------------
+Stack
+1. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
+
+1USPrimePaid

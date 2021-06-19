@@ -100,6 +100,104 @@ min(((x+3.50)-x), ((y+5.67)-y))
 - Demostrate benefits of MC during demo
 
 
+- https://issues.amazon.com/issues/MPI-4214
+- https://issues.amazon.com/issues/D22202723
+- 
+
+- membership-contract-portal-na.amazon.com
+- https://issues.amazon.com/issues/PPMTT-462
+
+
+
+
+{
+  description:"Fuse Test Partner AU Weekly Plan",
+  prime_plan_business_class:PRIME,
+  prime_plan_payment_information_class:PAID,
+  contractPeriod:{
+    count:7,
+    interval:"Day"
+  },
+  transitions:[
+    {
+      transitionType:"RENEWAL",
+      transitionPlans:[
+        {
+          plan:'0P13625751'
+        }
+      ]
+    },
+    {
+      transitionType:"RENEWAL_WITH_EXTENSION",
+      transitionPlans:[
+        {
+          plan:'0P36893942'
+        }
+      ]
+    }
+  ],
+  planRegionID:"AU",
+  taxRateClass:"Standard",
+  maximumBeneficiaryCount:1,
+  isHouseholdShareable:false,
+  isEligibleForConcession:false,
+  isCobrandedPlan:true,
+  billingPartnerName:"FenderFuseTestPartnerAU",
+  billingPartnerOfferType:"BUNDLE",
+  customKey:"FUSE_BUNDLE"
+}
+ project input data :
+
+{
+  sim:"https://issues.amazon.com/issues/P45941260",
+  projectName:"PRIME_FUSE_FenderFuseTestPartnerAU_BUNDLE_PLAN",
+  project_action:"createProject"
+}
+
+
+
+
+
+
+
+
+Amulya Esunuru
+
+DILPA8292Q
+
+30000
+
+22, 1st floor, Abhivrudhi layout, Sonnathammanahalli, Anandpura, Krishnarajapura, Bangalore-560036
+
+22, ground floor, Abhivrudhi layout, Sonnathammanahalli, Anandpura, Krishnarajapura, Bangalore-560036
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
